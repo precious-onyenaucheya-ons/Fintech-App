@@ -1,0 +1,259 @@
+[
+  {
+    "Id": "29130e26-9f98", // GTB
+    "BankCode": "058",
+    "BankName": "GTB",
+    "CountryCode": "+234",
+    "PaystackBankId": "2022",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00",
+    "BankAccounts": [
+      {
+        "Id": "39ac15af-e06a", //bacc 1
+        "AccountNumber": "0173522588",
+        "AccountName": "Ogbeide Osadolor Best",
+        "RecipientCode": "1999",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "39ac15af-e06ab", //bacc 2
+        "AccountNumber": "0168387817",
+        "AccountName": "James Uchenna",
+        "RecipientCode": "2020",
+        "WalletId": "e50169d1-5810-453a-9345-bc3790bc5342",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "39ac15af-e06abc", //bacc 3
+        "AccountNumber": "4567900045",
+        "AccountName": "John Maria",
+        "RecipientCode": "2021",
+        "WalletId": "e50169d1-5810-453a-9345-bc3790bc5342",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "39ac15af-e06abcd", //bacc 4
+        "AccountNumber": "3367900045",
+        "AccountName": "John Omotoye",
+        "RecipientCode": "1989",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "39ac15af-e06abcde", //bacc 5
+        "AccountNumber": "336733045",
+        "AccountName": "John Nonxx",
+        "RecipientCode": "1199",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "39ac15af-e06abcdef", //bacc 6
+        "AccountNumber": "33673788945",
+        "AccountName": "POD B Nonxx",
+        "RecipientCode": "1909",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  },
+  {
+    "Id": "879801cd", //bk    Firstbank
+    "BankCode": "011",
+    "BankName": "FirstBank",
+    "CountryCode": "+234",
+    "PaystackBankId": "00000",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00",
+    "BankAccounts": [
+      {
+        "Id": "93113fa5", //bacc 7
+        "AccountNumber": "3070292522",
+        "AccountName": "Chinedu Otuka",
+        "RecipientCode": "0001",
+        "WalletId": "e50169d1-5810-453a-9345-bc3790bc5342",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "93113fa5-1", //bacc 8
+        "AccountNumber": "3049350288",
+        "AccountName": "Eze Innocent",
+        "RecipientCode": "0002",
+        "WalletId": "e50169d1-5810-453a-9345-bc3790bc5342",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "93113fa5-12", //bacc 9
+        "AccountNumber": "3057704389",
+        "AccountName": "Nnadozie Adewumi Opara",
+        "RecipientCode": "0003",
+        "WalletId": "e50169d1-5810-453a-9345-bc3790bc5342",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "93113fa5-123", //bacc 10
+        "AccountNumber": "45678874598",
+        "AccountName": "Osadolor Nine",
+        "RecipientCode": "0004",
+        "WalletId": "e50169d1-5810-453a-9345-bc3790bc5342",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "93113fa5-1234", //bacc
+        "AccountNumber": "45678874598",
+        "AccountName": "Osadolor dolor",
+        "RecipientCode": "0005",
+        "WalletId": "e50169d1-5810-453a-9345-bc3790bc5342",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "93113fa5-1235", //bacc
+        "AccountNumber": "45678874598",
+        "AccountName": "Osadolor C#",
+        "RecipientCode": "0006",
+        "WalletId": "e50169d1-5810-453a-9345-bc3790bc5342",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  },
+  {
+    "Id": "22a1ad54-94f3", //bk    Taken
+    "BankCode": "044",
+    "BankName": "Access Bank",
+    "CountryCode": "+234",
+    "PaystackBankId": "000001",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00",
+    "BankAccounts": [
+      {
+        "Id": "ec5ca672-4e58-458d", //bacc
+        "AccountNumber": "0066099683",
+        "AccountName": "Chinonso Ikewelugo",
+        "RecipientCode": "10001",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "ec5ca672-4e58-458d-1", //bacc
+        "AccountNumber": "3367887098",
+        "AccountName": "Adewale C#",
+        "RecipientCode": "10002",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "ec5ca672-4e58-458d-12", //bacc
+        "AccountNumber": "3367887098",
+        "AccountName": "Yisa C#",
+        "RecipientCode": "10003",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "ec5ca672-4e58-458d-123", //bacc
+        "AccountNumber": "3367887098",
+        "AccountName": "Dozie C#",
+        "RecipientCode": "10005",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "ec5ca672-4e58-458d-1234", //bacc
+        "AccountNumber": "3367887098",
+        "AccountName": "Precious C#",
+        "RecipientCode": "10007",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  },
+  {
+    "Id": "d=reea8c36a-7eee-4f0f", //bk
+    "BankCode": "232",
+    "BankName": "Sterling",
+    "CountryCode": "+234",
+    "PaystackBankId": "100001",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00",
+    "BankAccounts": [
+      {
+        "Id": "f215866b-748f", //bacc
+        "AccountNumber": "0088545241",
+        "AccountName": "Olaoluwa Esan",
+        "RecipientCode": "1000",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "f215866b-748f-1", //bacc
+        "AccountNumber": "4547890098",
+        "AccountName": "John C#",
+        "RecipientCode": "1001",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "f215866b-748f-12", //bacc
+        "AccountNumber": "4547890098",
+        "AccountName": "Favour C#",
+        "RecipientCode": "1002",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "f215866b-748f-123", //bacc
+        "AccountNumber": "4547890098",
+        "AccountName": "Onyinye C#",
+        "RecipientCode": "1002",
+        "WalletId": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+        "IsInternal": true,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  }
+]
+
+
+

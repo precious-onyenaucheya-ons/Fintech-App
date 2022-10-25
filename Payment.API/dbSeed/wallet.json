@@ -1,0 +1,197 @@
+[
+  {
+    "Id": "e50169d1-5810-453a-9345-bc3790bc5342",
+    "Name": "Chikwe",
+    "Balance": 4000000.00,
+    "UserId": "14b815d4-3ba7-4941-874d-4d684ef1db35", // one: null,
+    "Code": "glipglop",
+    "Pin": "5810-453a-9345",
+    "PaystackCustomerCode": "2022",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00",
+    "VirtualAccount": {
+      "Id": "b8f812df-94f7",
+      "AccountName": "Christina Jones",
+      "AccountNumber": "2465768990",
+      "AccountReference": "Ritu",
+      "Status": 1,
+      "BankId": "29130e26-9f98", // GTB
+      "CreatedAt": "2022-01-11 11:04:26 +02:00",
+      "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+    },
+    "Transactions": [
+      {
+        "Id": "a16837f9-ba21-4ebb-ab42-1b3196078b0b",
+        "Amount": 459000.00,
+        "Reference": "Tofi",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "School fees",
+        "UserId": "165c2520-e81c-4d41-8729-50545ed90a91", // two: null,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-04-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "78c1477d-0bac-4110-91af-26f14eebb583",
+        "Amount": 459000.00,
+        "Reference": "Pelumi",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "Rent",
+        "UserId": "325cd285-26d4-468d-9766-b8e5874de6a7", // three: null,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-08-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "ec5ca672-4e58-458d-a5ef-9275c2e73763",
+        "Amount": 459000.00,
+        "Reference": "Akiolu",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "Car",
+        "UserId": "3e1e4e99-9ab8-41de-adcb-ce91d6c41a85", // four: null,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  },
+  {
+    "Id": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+    "Name": "Omotoye John",
+    "Balance": 2000000.00,
+    "UserId": "432b8892-4b61-4d3f-9825-b55611a8f59e", // five: null,
+    "Code": "blipblop",
+    "Pin": "30497fc979cc",
+    "PaystackCustomerCode": "1914",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00",
+    "VirtualAccount": {
+      "Id": "54aacd0d-d807-40f2-a7bc-8ef27d52637d",
+      "AccountName": "Osadolor Best",
+      "AccountNumber": "2465768990",
+      "AccountReference": "Ritu",
+      "Status": 1,
+      "BankId": "879801cd", // FirstBank
+      "CreatedAt": "2022-01-11 11:04:26 +02:00",
+      "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+    },
+    "Transactions": [
+      {
+        "Id": "f30c8d9c-f1a8-4626-8f9c-d5c61d6f2a12",
+        "Amount": 9000.00,
+        "Reference": "Agbaje",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": false,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "School fees",
+        "UserId": "44209adf-f9e3-4b4a-b229-921b6e87bdfc", // six: null,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "c032b124-8a19-44ee-811b-48c4e76bd844",
+        "Amount": 10000.00,
+        "Reference": "Philips",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "Repair",
+        "UserId": "67f006f3-80d4-419a-a450-db95897ef4c5", // seven: null,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "a7b24f6c-f8cc-426e-9acf-f9e84fe89895",
+        "Amount": 459000.00,
+        "Reference": "Ernest",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "Business",
+        "UserId": "6efefd0b-0052-40d6-84d3-ca389f854bc0", // eight: null,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "75f4f054-31c3-40c7-9792-89f577493e34",
+        "Amount": 4000.00,
+        "Reference": "Joy",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "Payment",
+        "UserId": "76b09c9f-af8e-4f20-9a1a-6c74d7142751", // nine: null,
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  },
+  {
+    "Id": "5a260689-a0a3-4e1a",
+    "Name": "Chinedu Otuka",
+    "Balance": 2000000.00,
+    "UserId": "[20:37] Chukwuka Okpalaugo", // ten: null,
+    "Code": "clipclop",
+    "Pin": "30497fc979cc",
+    "PaystackCustomerCode": "1914",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00",
+    "VirtualAccount": {
+      "Id": "54aacd0d-d807",
+      "AccountName": "Nonxx",
+      "AccountNumber": "2465768990",
+      "AccountReference": "Precious",
+      "Status": 1,
+      "BankId": "22a1ad54-94f3", // Access Bank
+      "CreatedAt": "2022-01-11 11:04:26 +02:00",
+      "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+    },
+    "Transactions": [
+      {
+        "Id": "f30c8d9d5c61d6f2a12",
+        "Amount": 9000.00,
+        "Reference": "Agbaje",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": false,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "School fees",
+        "UserId": "8aChukwuka", // eleven
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "c032b124-8a19-48c4e76bd844",
+        "Amount": 10000.00,
+        "Reference": "Philips",
+        "TransactionCode": "gdgsga",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Narration": "Transfered to Abuchi #10,000",
+        "Description": "Repair",
+        "UserId": "Okpalaugo9a", // twelve
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  }
+]

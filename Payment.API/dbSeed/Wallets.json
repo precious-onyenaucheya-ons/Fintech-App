@@ -1,0 +1,130 @@
+[
+  {
+    "Id": "e50169d1-5810-453a-9345-bc3790bc5342",
+    "Name": "Chikwe",
+    "Balance": 4000000.00,
+    "UserId": "a1",
+    "Pin": "5810-453a-9345",
+    "PaystackCustomerCode": "2022",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00",
+    "VirtualAccount": {
+      "Id": "b8f812df-94f7", //va
+      "AccountName": "Christina Jones",
+      "AccountNumber": "2465768990",
+      "AccountReference": "Ritu",
+      "Status": 1,
+      "BankId": "29130e26-9f98",
+      "CreatedAt": "2022-01-11 11:04:26 +02:00",
+      "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+    },
+    "Transactions": [
+      {
+        "Id": "a16837f9-ba21-4ebb-ab42-1b3196078b0b",
+        "Amount": 459000.00,
+        "Reference": "Tofi",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Description": "School fees",
+        "UserId": "3a",
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-04-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "78c1477d-0bac-4110-91af-26f14eebb583",
+        "Amount": 459000.00,
+        "Reference": "Pelumi",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Description": "Rent",
+        "UserId": "4a",
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-08-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "ec5ca672-4e58-458d-a5ef-9275c2e73763",
+        "Amount": 459000.00,
+        "Reference": "Akiolu",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Description": "Car",
+        "UserId": "5a",
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  },
+  {
+    "Id": "5a260689-a0a3-4e1a-bd3c-30497fc979cc",
+    "Name": "Seeding Hard",
+    "Balance": 2000000.00,
+    "UserId": "6a",
+    "Pin": "30497fc979cc",
+    "PaystackCustomerCode": "1914",
+    "CreatedAt": "2022-01-11 11:04:26 +02:00",
+    "UpdatedAt": "2022-03-11 11:04:26 +02:00", // here
+    "VirtualAccount": {
+      "Id": "54aacd0d-d807-40f2-a7bc-8ef27d52637d", //va
+      "AccountName": "Osadolor Best",
+      "AccountNumber": "2465768990",
+      "AccountReference": "Ritu",
+      "Status": 1,
+      "BankId": "879801cd",
+      "CreatedAt": "2022-01-11 11:04:26 +02:00",
+      "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+    },
+    "Transactions": [
+      {
+        "Id": "f30c8d9c-f1a8-4626-8f9c-d5c61d6f2a12",
+        "Amount": 9000.00,
+        "Reference": "Agbaje",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": false,
+        "Description": "School fees",
+        "UserId": "8a",
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "c032b124-8a19-44ee-811b-48c4e76bd844",
+        "Amount": 10000.00,
+        "Reference": "Philips",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Description": "Repair",
+        "UserId": "9a",
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "a7b24f6c-f8cc-426e-9acf-f9e84fe89895",
+        "Amount": 459000.00,
+        "Reference": "Ernest",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Description": "Business",
+        "UserId": "10a",
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      },
+      {
+        "Id": "75f4f054-31c3-40c7-9792-89f577493e34",
+        "Amount": 4000.00,
+        "Reference": "Joy",
+        "Status": 1,
+        "Type": 2,
+        "IsInternal": true,
+        "Description": "Payment",
+        "UserId": "11a",
+        "CreatedAt": "2022-01-11 11:04:26 +02:00",
+        "UpdatedAt": "2022-03-11 11:04:26 +02:00"
+      }
+    ]
+  }
+]
